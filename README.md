@@ -1,4 +1,3 @@
-
 # End-to-End Azure Data Engineering Pipeline
 
 ## Project Overview
@@ -93,3 +92,7 @@ Azure_First_Project/
 
 
 
+=======
+# azure-data-engineering-pipeline
+End-to-end Azure data engineering pipeline using Azure Data Factory, Azure Data Lake, Databricks, PySpark and Synapse Analytics.
+>>>>>>> f99af8ce6ca4886a07f3c9dc90395285f470003f
